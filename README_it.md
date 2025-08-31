@@ -1,4 +1,4 @@
-**Languages / Lingue:** [English](#description-english) | [Italiano](README_it.md)
+**Languages / Lingue:** [English](README.md) | [Italiano](README_it.md)
 # 🛠️ GitPyVersion
 
 *Versione*: 1.0
