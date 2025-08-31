@@ -1,5 +1,4 @@
 # 🛠️ GitPyVersion
-**Languages / Lingue:** [English](README.md) | [Italiano](README_it.md)
 
 *Version*: 1.0  
 *License*: Freeware  
