@@ -1,4 +1,3 @@
-# GitPyVersion
 CLI utility for Windows to check and update Git and Python - Freeware.
 **Languages / Lingue:** [English](#description-english) | [Italiano](README_it.md)
 # 🛠️ GitPyVersion
