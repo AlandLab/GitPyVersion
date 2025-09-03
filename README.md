@@ -8,17 +8,17 @@
 
 ## 📝 Description
 
-GitPyVersion is a command-line utility for Windows that checks the installed versions of `Git` and `Python` and, if updates are available, allows downloading and installing them quickly.
+GitPyVersion is a command-line utility for Windows that checks the installed versions of Git and Python and, if updates are available, allows you to download and install them quickly.
 
 ---
 
 ## ✨ Main features
 
-- Checks the versions of Git and Python installed on the system.  
-- Automatically extracts the latest available versions from the official Git and Python pages.  
-- Downloads and, if requested, installs new versions (`-d` to download, `-di` to download and install).    
-- Installs Git and/or Python if missing on the system.  
-- Shows a progress bar during downloads.
+- Checks the versions of Git and Python installed on the system.
+- Automatically retrieves the latest available versions from the official Git and Python pages.
+- If requested, downloads and installs new versions (`-d` to download, `-di` to download and install).
+- Installs Git and/or Python if they are not already installed on the system.
+- Displays a progress bar during downloads.
 
 ---
 
