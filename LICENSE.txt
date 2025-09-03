@@ -1,0 +1,46 @@
+GitPyVersion — FREEWARE LICENSE
+================================
+
+1. Definitions
+    • Software: the application and all its components.
+    • Licensor: the original author of the Software.
+    • User: any person who uses or redistributes the Software.
+
+2. License Grant
+    The Licensor grants the User a non-exclusive, non-transferable, royalty free
+    right to install, use and redistribute the Software on an unlimited number
+    of systems.
+
+3. Limitations
+    • The Software remains the exclusive property of the Licensor.
+    • Modification, decompilation, disassembly or creation of derivative works is prohibited.
+    • Use of the Software for commercial purposes is forbidden, except with the Licensor’s explicit authorization.
+    • Distribution of modified or renamed versions of the Software is prohibited.
+
+4. Distribution
+    Redistribution of the Software, free of charge (“as-is”), is permitted only if accompanied by:
+    • the LICENSE.txt file containing this primary license,
+    • the THIRD_PARTY_LICENSES.txt file containing all third-party licenses.
+
+5. Third-Party Dependencies
+    • Python (PSF License)
+    • requests (Apache License 2.0)
+    • beautifulsoup4, pytz, tqdm (MIT License)
+    • colorama (BSD 3-clause License)
+    • libffi-7.dll (libffi License, MIT/X11-like)
+    • libssl-1_1.dll, libcrypto-1_1.dll (OpenSSL License + SSLeay License)
+    • vcruntime140.dll (Microsoft Visual C++ Redistributable License)
+
+6. Disclaimer of Warranty and Limitation of Liability
+    The Software is provided “as-is”, without warranties of any kind, express or implied,
+    including but not limited to warranties of merchantability or fitness for a particular purpose.
+    The Licensor shall not be liable for any direct, indirect, incidental or consequential
+    damages arising from use of, inability to use, or malfunction of the Software.
+
+7. Governing Law and Jurisdiction
+    This License is governed by the laws of Italy.
+    Any dispute arising out of or in connection with this License shall be subject to the
+    exclusive jurisdiction of the courts of the Licensor’s place of residence.
+
+8. Acceptance
+    Use or redistribution of the Software implies acceptance of this License.
